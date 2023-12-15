@@ -41,4 +41,4 @@ __Melhoria 1__, _melhoria 2_
 
 ## Links interessantes
 
-[Google](www.google.com)
+[Google](https://www.google.com)
