@@ -34,3 +34,7 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem local
 
 ![Desenho de um empresario](img/empresa.jfif)
+
+#### Imagem externa
+
+![Imagem de tecnologia](https://www.conteudoinboundmarketing.com.br/wp-content/uploads/2019/11/iStock-1047716020-1024x684.jpg)
