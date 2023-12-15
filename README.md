@@ -48,3 +48,12 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor Principal: https://github.com/eduardoalen
 
 [![Imagem Tecnologia](https://www.conteudoinboundmarketing.com.br/wp-content/uploads/2019/11/iStock-1047716020-1024x684.jpg)](https://github.com/eduardoalen)
+
+## Código da função soma
+
+```javascript
+fuction soma(a, b) {
+    return a + b;
+} 
+
+```
