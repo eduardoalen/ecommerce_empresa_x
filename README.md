@@ -30,3 +30,7 @@ __Melhoria 1__, _melhoria 2_
 
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+#### Imagem local
+
+![Desenho de um empresario](img/empresa.jfif)
