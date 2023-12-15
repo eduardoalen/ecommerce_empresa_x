@@ -44,3 +44,5 @@ __Melhoria 1__, _melhoria 2_
 [Google](https://www.google.com)
 
 [https://www.youtube.com](https://www.youtube.com)
+
+Contribuidor Principal: https://github.com/eduardoalen
