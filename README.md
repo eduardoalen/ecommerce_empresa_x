@@ -60,7 +60,7 @@ fuction soma(a, b) {
 
 ## Lista de tarefas
 
-- [ x ] Área de membros
-- [ ] Integração com outros pagamentos
-- [ ] Sistema de bónus
-- [ x ] CSS do rodapé
+- [x] Área de membros
+- [] Integração com outros pagamentos
+- [] Sistema de bónus
+- [x] CSS do rodapé
